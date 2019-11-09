@@ -1,8 +1,8 @@
 # 251230-STIW3054-A191-A2
-__Student Info__
+__Student Info__  
 `Wang Luo 251230`
 
-Introduction  
+__Introduction__    
 develop a small system using MAVEN and Java programming language. The system should be able to:
 
 Identify zhamri's GitHub followers.
