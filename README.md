@@ -41,3 +41,6 @@ develop a small system using MAVEN and Java programming language. The system sho
 **Presentation Link**  
 https://youtu.be/bcl4vzPG0C0
 
+**Reference**  
+(zygzzp, 2013, https://blog.csdn.net/nyistzp/article/details/17261433)  
+(csdnfeiguo,2018,https://blog.csdn.net/csdnfeiguo/article/details/80748122)
