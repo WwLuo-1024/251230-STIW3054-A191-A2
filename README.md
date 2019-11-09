@@ -29,4 +29,12 @@ develop a small system using MAVEN and Java programming language. The system sho
 ![output1](https://github.com/WwLuo-1024/251230-STIW3054-A191-A2/blob/master/Images/002.png)  
 ![output1](https://github.com/WwLuo-1024/251230-STIW3054-A191-A2/blob/master/Images/003.png)  
 
+**Excel ouput**
+![output1](https://github.com/WwLuo-1024/251230-STIW3054-A191-A2/blob/master/Images/004.png)  
+![output1](https://github.com/WwLuo-1024/251230-STIW3054-A191-A2/blob/master/Images/005.png)  
+![output1](https://github.com/WwLuo-1024/251230-STIW3054-A191-A2/blob/master/Images/006.png)  
+![output1](https://github.com/WwLuo-1024/251230-STIW3054-A191-A2/blob/master/Images/007.png)  
+
+**UML Diagram**
+![output1](https://github.com/WwLuo-1024/251230-STIW3054-A191-A2/blob/master/Images/class_diagram.png)  
 
