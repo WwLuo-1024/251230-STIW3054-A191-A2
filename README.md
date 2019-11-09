@@ -1,5 +1,5 @@
 # 251230-STIW3054-A191-A2
-`Student Info`  
+`**Student Info**`  
 Wang Luo 251230
 
 Introduction  
