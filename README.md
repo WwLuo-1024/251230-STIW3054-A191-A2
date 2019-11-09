@@ -1,19 +1,19 @@
 # 251230-STIW3054-A191-A2
-Student Info
-Tan Cheng Yi 253814
+Student Info  
+Wang Luo 251230
 
-Introduction
+Introduction  
 develop a small system using MAVEN and Java programming language. The system should be able to:
 
 Identify zhamri's GitHub followers.
 
 Analyze each of the followers using thread with the following statistics:
 
-The number of repositories
-The number of followers
-The number of following
-The number of gists
-The number of threads is based on the number of zhamri's Github followers
+The number of repositories  
+The number of followers  
+The number of following  
+The number of gists  
+The number of threads is based on the number of zhamri's Github followers  
 
 Reporting format:
 
@@ -21,4 +21,4 @@ Reporting format:
 |-----|----------|------------------------|---------------------|-----------|------------|
 | 1   | wzul     | 29                     | 31                  |    1     |     5     |
 | 2   | Aman748  | 17                     | 14                  |    3     |     0     |
-Reporting file: All the results must be displayed in MS Excel file.
+
