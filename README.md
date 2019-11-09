@@ -25,4 +25,5 @@ develop a small system using MAVEN and Java programming language. The system sho
 5.Reporting file: All the results must be displayed in MS Excel file.
 
 `Result output`  
+![output1](https://github.com/WwLuo-1024/251230-STIW3054-A191-A2/blob/master/Images/001.png)
 
