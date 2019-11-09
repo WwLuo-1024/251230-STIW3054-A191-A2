@@ -38,3 +38,6 @@ develop a small system using MAVEN and Java programming language. The system sho
 **UML Diagram**
 ![output1](https://github.com/WwLuo-1024/251230-STIW3054-A191-A2/blob/master/Images/class_diagram.bmp)  
 
+**Presentation Link**  
+https://youtu.be/bcl4vzPG0C0
+
