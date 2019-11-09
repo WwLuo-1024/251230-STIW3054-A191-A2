@@ -1,6 +1,6 @@
 # 251230-STIW3054-A191-A2
-__Student Info
-Wang Luo 251230__
+__Student Info__
+`Wang Luo 251230`
 
 Introduction  
 develop a small system using MAVEN and Java programming language. The system should be able to:
