@@ -4,7 +4,7 @@
          xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
     <modelVersion>4.0.0</modelVersion>
 
-    <groupId>com.tanchengyi</groupId>
+    <groupId>com.stiw3054</groupId>
     <artifactId>253814-STIW3054-A191-A2</artifactId>
     <version>1.0-SNAPSHOT</version>
 
@@ -32,7 +32,7 @@
                         <manifest>
                             <addClasspath>true</addClasspath>
                             <classpathPrefix>lib/</classpathPrefix>
-                            <mainClass>com.tanchengyi.Main</mainClass>
+                            <mainClass>com.stiw3054.Main</mainClass>
                         </manifest>
                     </archive>
                 </configuration>
